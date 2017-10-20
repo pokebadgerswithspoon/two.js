@@ -32,7 +32,9 @@
     "blueimp-canvas-to-blob": "^2.1.0",
     "node-minify": "^2.0.3",
     "qunitjs": "^2.4.0",
-    "resemblejs": "^1.1.1",
+    "resemblejs": "^1.1.1"
+  },
+  "externals": {
     "underscore": "^1.6.0"
   }
 }
